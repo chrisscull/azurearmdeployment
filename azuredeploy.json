@@ -3,8 +3,8 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "type": "string"
-			"defaultValue": "westus2"		
+            "type": "string",
+			"defaultValue": "westus2",	
 			"allowedValues": [
 				"westus2",
 				"westus"
