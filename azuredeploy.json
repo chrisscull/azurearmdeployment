@@ -24,7 +24,7 @@
 			"defaultValue": "RG_HUB"
         },
         "addressSpaces": {
-            "type": "array"
+            "type": "array",
 			"defaultValue": "10.222.0.0/16"
         },
         "ipv6Enabled": {
@@ -34,7 +34,7 @@
             "type": "int"
         },
         "subnet0_name": {
-            "type": "string"
+            "type": "string",
 			"defaultValue": "FrontEnd"
         },
         "subnet0_addressRange": {
