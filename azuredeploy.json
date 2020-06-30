@@ -3,12 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "type": "string",
-			"value": "westus2",	
-			"allowedValues": [
-				"westus2",
-				"westus"
-		]
+            "value": "westus2"
         },
         "virtualNetworkName": {
             "type": "string",
