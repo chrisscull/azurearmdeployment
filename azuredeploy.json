@@ -4,10 +4,10 @@
     "parameters": {
         "location": {
             "type": "string"
-			"defaultValue": "West2us"		
+			"defaultValue": "westus2"		
 			"allowedValues": [
-				"West2us",
-				"Westus"
+				"westus2",
+				"westus"
 		]
         },
         "virtualNetworkName": {
